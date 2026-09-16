@@ -1,7 +1,7 @@
 # ai-threat-research
 Research into how attackers are using AI, what risks this creates for businesses, and how defensive deception could help. 
 
-## research questions
+## Research questions
 
 - How are attackers using AI in real incidents?
 - How could honeypots and other decoys help detect or mislead attackers using AI?
